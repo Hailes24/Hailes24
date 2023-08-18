@@ -47,7 +47,7 @@
 
 ## Contact me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/hailes-maurício-066659217)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hailes-maurício-066659217)
 [![GitLab](https://img.shields.io/badge/GitLab-E84D28?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/HailesMauricio04)
 [![Stakeoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20109917/hailes-maur%c3%adcio)
 [![Telegram](https://img.shields.io/badge/Telegram-2FAAE9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hailesmauricio)
